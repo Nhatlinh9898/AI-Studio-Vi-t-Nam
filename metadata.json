@@ -1,0 +1,8 @@
+{
+  "name": "AI Studio Việt Nam",
+  "description": "Siêu ứng dụng tích hợp 9 công cụ AI mạnh mẽ: NotebookLM, HeyGen, Nano Banana Pro, Claude, Veo 3, Eleven Labs, Grok, Notion và Perplexity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
